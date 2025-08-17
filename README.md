@@ -2,6 +2,8 @@
 
 A modern, interactive tic-tac-toe game built with HTML, CSS, and JavaScript featuring both Player vs Player and Player vs AI modes.
 
+🔗 Live site: https://rohanraaj2.github.io/PRODIGY_WD_03/
+
 ## 🎮 Features
 
 ### Core Gameplay
@@ -147,6 +149,10 @@ Feel free to fork this project and submit pull requests for:
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+## 🔒 Privacy & Analytics
+
+This site includes Google Analytics for traffic tracking. No personal data is collected.
 
 ## 🎉 Credits
 
